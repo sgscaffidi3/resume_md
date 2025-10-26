@@ -74,7 +74,7 @@ permalink: /
 * Managed Microsoft Premier Partner Account, coordinating global test effort to ensure interoperability of beta software.
 
 **SOUTHERNTIER NEWS COMPANY** | Ithaca, NY
-*Clerk (Manager in Training) - *Reframed for Transferable Skills* | Jul 2002–Jul 2007*
+*Clerk (Manager in Training) | Jul 2002–Jul 2007*
 * **Demonstrated strong work ethic and trustworthiness** by routinely handling, reporting, and depositing thousands of dollars of cash daily.
 * Exercised **management and leadership responsibility** by training and supervising subordinate employees and reporting directly to the Director of Operations.
 * **Implemented a Video Surveillance System** that successfully identified covert cases of theft from long-standing regular customers, protecting company assets.

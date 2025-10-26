@@ -17,3 +17,15 @@
  * you might need a more specific selector, such as: 
  * main > h1.title { display: none; }
  */
+/* Targets the main content wrapper (provided by your theme) */
+.markdown-body {
+    /* Target the first <h1> tag that is a direct child of the markdown-body div */
+    /* This targets <h1><a href="...">resume_md</a></h1> */
+    
+    /* We use :first-child to avoid hiding your resume's title: <h1 id="greg-scaffidi">GREG SCAFFIDI</h1> */
+    
+    /* The space is important here: it targets the immediate child <h1> element */
+    > h1:first-child { 
+        display: none !important;
+    }
+}

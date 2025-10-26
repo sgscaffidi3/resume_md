@@ -1,0 +1,12 @@
+/*
+ * Replace '.page-title' with the actual CSS selector
+ * of the unwanted hyperlinked title element on your page.
+ */
+.page-title {
+    display: none; /* This command hides the element completely */
+}
+
+/* * If the element is a generic <h1> tag in the content area, 
+ * you might need a more specific selector, such as: 
+ * main > h1.title { display: none; }
+ */

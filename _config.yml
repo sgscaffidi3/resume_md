@@ -1,0 +1,12 @@
+# _config.yml
+
+# This line is usually already present, but confirms which theme you're using.
+# theme: jekyll-theme-minimal 
+
+# Add your custom stylesheet to the list of assets to be included by the theme.
+plugins:
+  - jekyll-feed
+
+# The key below tells the theme to inject your custom CSS file.
+header_pages:
+  - assets/css/custom.css # Add this line
